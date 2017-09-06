@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">New Route</string>
+    <string name="button1">Current Location</string>
+    <string name="button2">Set Destination</string>
+    <string name="home_text">Home</string>
+    <string name="address_view">123 Main St, San Francisco, CA</string>
+</resources>
